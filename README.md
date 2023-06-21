@@ -2,9 +2,7 @@
 
 ## Table of contents
 * [Description](#description)
-* [Demostration](#demostration)
 * [Technologies](#technologies)
-* [Enabling Pepper](#enabling-pepper)
 * [Setup](#setup)
 * [Licence](#licence)
 
