@@ -11,8 +11,8 @@ This is a repo in which I am going to upload the codes developed for the google 
 
 ## Technologies
 This project is created with:
-* python: 3.8.10
-* 
+* r
+
 ## Setup
 To run this project you need to have installed python 3:
 ```
